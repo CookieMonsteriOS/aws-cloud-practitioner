@@ -26,6 +26,5 @@ The `launch_ec2.sh` script launches an EC2 instance with the specified parameter
 
 #### Parameters
 
-- `AMI_ID`: The Amazon Machine Image ID to use for the instance.
 - `INSTANCE_TYPE`: The type of instance to launch (e.g., `t2.micro`).
-- `KEY_PAIR_NAME`: The name of the key pair to use for the instance.
+
